@@ -17,3 +17,6 @@ Upon first publish, this script supports these formats:
 YYYY-MM-DD HH:MM
 YYYYMMDD_HHMM
 YYYYMMDD_HHMMSS
+
+##notes
+Confirmed working on 2017-03-04, on Firefox on Ubuntu. (when "date_time.hta" is renamed to "date_time.html")
